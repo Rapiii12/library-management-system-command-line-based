@@ -2,6 +2,8 @@
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
+myapp.jar
+compiled/
 
 ### Mac OS ###
 .DS_Store
